@@ -1,0 +1,8 @@
+2025-08-12 17:03:45 - Arithmeticapp - DEBUG - Adding 10 + 10 = 20
+2025-08-12 17:03:45 - Arithmeticapp - DEBUG - subtraction of  10 - 10 = 0
+2025-08-12 17:03:45 - Arithmeticapp - DEBUG - multiplying 10 * 10 = 100
+2025-08-12 17:03:45 - Arithmeticapp - DEBUG - Division of 10 / 10 = 1.0
+2025-08-12 17:04:03 - Arithmeticapp - DEBUG - Adding 10 + 10 = 20
+2025-08-12 17:04:03 - Arithmeticapp - DEBUG - subtraction of  10 - 10 = 0
+2025-08-12 17:04:03 - Arithmeticapp - DEBUG - multiplying 10 * 10 = 100
+2025-08-12 17:04:03 - Arithmeticapp - WARNING - Enter the denominator other than zero..
